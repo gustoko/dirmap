@@ -27,7 +27,6 @@ return array(
 	*/
 
 	'default' => 'mysql',
-
 	/*
 	|--------------------------------------------------------------------------
 	| Database Connections
@@ -55,7 +54,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'services',
+			'database'  => 'dirmap',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',
